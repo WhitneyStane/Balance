@@ -128,9 +128,9 @@ Anakin sighed in frustration, but didn't speak.
 
 Saesee Tiin spoke next, his annoyance clear in his voice. "Well, did these texts have anything useful in them? Perhaps ways we could use to recognize new lords of the Sith?"
 
-Hett merely turned in Tiin's direction and shook his head. "I'm afraid that could be up for debate. While many of these texts were in ancient languages, we were able to translate them. Many seemed to be historical accounts of the Sith of old, which could be potentially useful in recognizing new Sith lords. A rather significant minority, however, seem to be on old Sith magic and Dark Side practices."
+Hett merely turned in Tiin's direction and shook his head. "I'm afraid that could be up for debate. While many of these texts were in ancient languages, we were able to translate them. Many seemed to be historical accounts of the Sith of old, which could be potentially useful in recognizing new Sith lords. Strangely, a rather small minority seem to be on old Sith magic and Dark Side practices. Almost as if there was a purge within the Sith..." A'Sharad Hett spoke, contemplatively.
 
-"You destroyed them, I hope." Saesee Tiin said, rather dismissive of A'Sharad Hett's answer.
+"Good riddance." Saesee Tiin said, rather dismissive of A'Sharad Hett's answer. "You destroyed the Sith relics, I hope." 
 
 "I did not. I did not think it was my place to remove such knowledge from the universe. I believe it is the Council's prerogative to decide what should be done, that is why I've brought them here."
 
@@ -140,11 +140,23 @@ Saesee Tiin grumpily quieted down and returned his attention to A'Sharad Hett.
 
 "Thank you, Master Yoda." A'Sharad said, bowing in the direction of the aforementioned Jedi. 
 
-"While we may not have found any clues to the identity of our current Sith lord, we have found many artefacts that we believe could be useful for the Jedi Order to study." A'Sharad Hett offered. It wasn't what they were looking for, but it was far better than returning empty handed. His padawan has shown him how useful even Dark Side artefacts could be. The biggest obstacle would be convincing the Council.
+"While we may not have found any clues to the identity of our current Sith lord, we have found many artefacts and documents that we believe could be useful for the Jedi Order to study." A'Sharad Hett offered. It wasn't what they were looking for, but it was far better than returning empty handed. His padawan has shown him how useful even Dark Side artefacts could be. The biggest obstacle would be convincing the Council.
+
+Adi Gallia spoke next. "Are these the Sith documents you mentioned earlier?"
+
+A'Sharad Hett turned to her. "Surprisingly, no. While the majority of what we recovered is most definitely Sith, a great many artefacts are Jedi in origin. Namely, from the Old Republic Era."
+
+This caused quite a few eyebrows to be raised. While the Jedi Archives were enormous, they had only been in place for the last 800 years. To most species, this made the Jedi Archives quite old; however, Yoda had been a Jedi for longer than the Archives had existed. He knew there was a great deal of information that never made it to the Archives. Since the Old Republic Era was more than 4000 years earlier, practically all the newly recovered data and artefacts would be completely absent from the Archives.
+
+"I speak for us all when I say the Council is pleased with your work, Master Hett." Mace Windu said with a hint of praise in his voice. The rest of the Council nodded and mumbled in agreement. "While you were unable to complete your mission, your discoveries are a very welcome surprise."
+
+"More to report, have you, Master Hett?" Master Yoda queried.
+
+A'Sharad shook his head negatively. "That is all, Master Yoda."
 
 "Speak later, we shall." Yoda said. "Much to ponder, we have."
 
-A'Sharad Hett raised his eyebrow at the rather abrupt ending to the council meeting, but bowed and withdrew.
+_____A'Sharad Hett raised his eyebrow at the rather abrupt ending to the council meeting, but bowed and withdrew.
 
 _____A'Sharad Hett stood before the council, delivering his report. They found many Sith artifacts and lost knowledge, but nothing had been disturbed for many centuries. They found a potential trail on the edge of the Unknown Regions, but it grew cold in the Outer Rim. Even backtracking, they were lead to non-existent planets. 
 _____
@@ -180,13 +192,13 @@ Statera faced Anakin as A'Sharad Hett disappeared down the hall.
 
 "Why, Master, I didn't know you knew such obscure words. What other secrets are you hiding?" The snarky tone of Ahsoka turning the human's smirk into a frown at the Togruta.
 
-"Rest assured, Master Skywalker, my proposal does not break the Order's archaic rules." The two Jedi turned and looked at him in surprise at the slight emphasis of "archaic".
+"Rest assured, Master Skywalker, my proposal does not break the Order's archaic rules." Statera responded, playing along with Anakin's joke.
 
 "Well, you've got my interest, kid." Anakin replied.
 
 Statera smirked. "I would like to challenge you and Master Fisto to a sparing match."
 
-Anakin's lips soon found themselves copying Statera, the padawan's request causing a smirk to appear. "Well, there's no way I'll be missing this."
+Anakin's lips soon found themselves copying Statera's, the padawan's request causing a smirk to appear. "Well, there's no way I'll be missing this."
 
 "Are you crazy? Master Fisto is the one of the best duelists in the Order! And Master Skywalker is no slouch either." She added, under lighthearted glare from Anakin.
 
@@ -198,7 +210,7 @@ The grin remained on his face. "I'll do my best to avoid that, Padawan Tano." He
 
 Ahsoka looked between her old friend and her master, before an idea popped into her head. "Fine! If you lose, than I get to be your nanny droid until you heal."
 
-Anakin suddenly looked ill. "Don't take her up on this, Statera." He said, sounding quite serious. "I'm serious." His words describing his tone. "She can be evil when she puts her mind to it."
+Anakin suddenly lost his grin. "Don't take her up on this, Statera." He said, sounding quite serious. "I'm serious." His words describing his tone. "She can be evil when she puts her mind to it."
 
 "I appreciate the concern, Master Skywalker, but I think I'll be fine." Anakin shook his head, respecting Statera's self confidence but slightly worried for the young human's wellbeing.
 
@@ -210,112 +222,12 @@ Statera bowed in response. "Thank you, Master Skywalker. I'll let you know about
 
 Anakin rolled his eyes. "Cut with the formalities, Stat. I'm not a fan of them."
 
-The newly dubbed Stat copied Anakin. "You're the second person who's taken to calling me Stat. Most seem to prefer 'Tera'." He changed the subject. "Anyways, I was was planning to steal your apprentice for a while, got years of catching up to do and all that." He said, being purposefully vague to get a rise out of someone. He was disappointed, though.
+The newly dubbed Stat copied Anakin. "You're the second person who's taken to calling me Stat. Most seem to prefer 'Tera'." He said, elbowing Ahsoka. He changed the subject. "Anyways, I was was planning to steal your apprentice for a while, got years of catching up to do and all that." He said, being purposefully vague to hopefully get a rise out of Anakin. Or Ahsoka. He was disappointed, though.
 
 "Well, if you're going to ask my permission, then it wouldn't be stealing..." Anakin countered.
 
-"I know. I just thought I'd tell you ahead of time in the spirit of courtesy." He said, bowing low.
+"I know. I just thought I'd tell you ahead of time in the spirit of courtesy." He said.
 
 Ahsoka rolled her eyes and grabbed his arm. "Come on, [girlie] (need better word). Years of catching up to do, remember?" She started to drag him away.
 
 Anakin shook his head. It may have been years, but the two still shared a very close bond. He began walking, leaving the empty hallway to find something to escape the impending boredom. Why couldn't the council decide on his mission faster?
-
---
-
-[Next part reintroduces Gir'rina and Statera. She tends to follow rules a bit more strictly than the other two, so she'll have difficulty coming to terms with Statera's new feel in the Force.]
-
---
-
-_____"And what do you do?" She shot back at him.
-_____
-_____He began walking down the hallway, heading toward the sparing arena several floors below. "I win." He said, glancing over his shoulder at her.
-_____
-_____Rolling her eyes and ignoring A'Sharad's chuckles, she started after him.
-_____
-_____"Shall we get a move on, then?" Anakin said, with an amused grin.
-
-----
-
-Ahsoka stood next to A'Sharad Hett as they waited for the three combatants to finish getting warmed up. She was rather worried about her newly returned friend, challenging two of the top duelists in the Order wasn't something to be done lightly.
-
-"Aren't you at least concerned, Master Hett?" She asked the quiet Jedi.
-
-"My padawan can take care of himself, Padawan Tano." Was the reply.
-
-"But-" She started.
-
-"My padawan can take care of himself." A'Sharad's words were slightly harder this time, but his face broke into a grin. "Besides, he has learned a few tricks while under my tutelage."
-
-Not quite reassured, she looked back at her friend. He looked so calm as he stretched, not at all worried about the impending fight.
-
-He finally stood and waited for the others to finish, casually glancing at them before looking over at Ahsoka. He grinned at her, which was surprisingly more reassuring than his Master's words had been.
-
-Mace Windu and her master, Anakin, had taken up their lightsabers, waiting for confirmation for the duel to begin.
-
-----
-
-Statera looked at the two Jedi, studying them slightly before glancing at Ahsoka. She had grown much since his departure and it looked good on her.
-
-Flashing a smile at her, he noted how much more powerful she felt in the Force. It shone through her, strongly but more far more gently than in the past. 
-
-'She's gained more control over the Force. Skywalker must be good for her.' He thought.
-
-As the other Jedi took up their lightsabers, he pulled himself back to the present. It was time to have fun.
-
-"Master Skywalker, Master Windu. While I traveled the galaxy with Master Hett, we discovered many artifacts and techniques lost to the ages, many dating even back to the Old Republic. Today, you will learn how well you would fare against the Jedi of old." He said in a cocky tone. The tone wasn't completely forced, either. Statera knew his strengths and he was more than confident he could handle the two Jedi masters.
-
-He ignited his lightsabers, a smile crossing his face as his opponents circled him. 
-
-He'd taken to fighting with dual lightsabers after a particularity dangerous mission. With the additional training he received from the ancient holocrons found on his journey, the fighting with two lightsabers became as easy as fighting with one.
-
-As one, Anakin and Windu rushed Statera from opposite sides. Splitting a fighter's attention was a good way to knock them off balance, ending fights in the early stages if the warriors were good.
-
-The blue and purple lightsabers cut through nothing but air as the owners were flung across the arena.
-
-"The first lesson I relearned was simple, remember the Force. Let it guide your blade." Statera said, quoting the words each Jedi was told as they first took up their training saber.
-
-He went on the offensive. With blinding speed, he rushed at Anakin. His blades crackled loudly as they collided with Anakin's barely successful block.
-
-Unfortunately, Anakin's luck ran out as Statera's lightsabers twisted with impossible speed, forcing his blade from his hand.
-
-Immediately, Statera turned to meet Windu's attack, leaving Anakin wonder how he was disarmed.
-
-"My second lesson. Use the Force." Statera said, making a small flicking motion toward Windu.
-
-The bald Jedi master went flying backwards as a powerful wave of the Force, well, forced him off his feet.
-
-Looking back at Anakin, Statera watched as the Jedi master cautiously circled him again. He smirked, recognizing what was occurring. The two Masters were reassessing him, treating him like an enemy rather than an impertinent youngling.
-
-Mace Windu and Anakin Skywalker looked at each other for a split-second before attacking Statera again. This time, they no longer held back.
-
-----
-
-To say that the next moments of the fight were epic would be an understatement. To the observers, it quickly became obvious that, if Statera had taken on a single opponent, he would have been toying with the poor Jedi.
-
-Ahsoka stared on in awe at her friend's abilities.
-
-"You'll want to close your mouth, Padawan Tano. It is not becoming of a Jedi to gawk." A'Sharad's amused voice shook her out of her trance.
-
-Blushing slightly, she responded. "I apologize, Master Hett. You were right, though, Tera's learned much. I shouldn't have doubted him."
-
-A'Sharad chuckled at her words. "He's having fun right now. If he ever sheaths his lightsabers, that means he has taken the fight very seriously. I've seen him like that several times..." His voice trailed off as he thought back. Shaking his head slightly, he finished his sentence. "The outcome is never pretty."
-
-Curious, Ahsoka tried probing. "What happened?"
-
-A'Sharad shook his head again. "Now is not the time, Padawan Tano. It is something you should ask of him."
-
-A'Sharad turned his attention back to the fight. His apprentice was now using some rather obscure uses of the Force. While using the Force to increase a Jedi's agility and reflexes was still common, it was a less effective than what the Jedi used one thousand years in the past.
-
-Statera was dancing between the two masters, keeping the Jedi on the defensive. Even when they were able to get an attack, it was quickly countered by the young padawan. His movements were on the level of Master Yoda's, precise and quick.
-
-He ended his assault by sending the two flying across the room.
-
-"That was Force Speed. I found it to be more refined than the techniques taught today." He said as the two Jedi reengaged him. His voice had lost a bit of its arrogant tone.
-
-He leapt back, simultaneously pushing the two masters away from him again. He made a quick descision and sped toward Windu, attacking him before leaping away.
-
-Windu turned to attack Statera again but was forced to retreat as Anakin started to attack him.
-
-"Skywalker, what are you doing?" He demanded, deflecting the assaults from his supposed ally.
-
-
