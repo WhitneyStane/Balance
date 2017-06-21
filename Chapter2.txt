@@ -64,7 +64,8 @@ Ahsoka wasn't quite sure what she was going to say when she found herself surrou
 
 "I missed you, Ahsoka." He said, smiling and stepping back. "And, damn, you've grown since I've left." He said, looking over her.
 
-She smiled. "So have you, Tera. You actually look masculine for a change."
+She smiled, relaxing at his actions. "So have you, Tera. You actually look masculine for a change."
+[Does this seem generic at all? I think it does... Might take it all out and rewrite.]
 
 The look on Statera's face caused her to burst out in laughter.
 
@@ -82,35 +83,51 @@ He looked over to her as she continued.
 
 Statera smiled as well, remembering.
 
-He didn't notice Ahsoka's change in countenance. "But now you feel much different..." Her voice had lost the color of happiness. "You feel closed off....to the point where I can't even tell [if you use the light side of the Force]." (FIX THIS)
+He didn't notice Ahsoka's change in countenance. "But now you feel much different..." Her voice had lost the color of happiness. "You feel closed off....to the point where I can't even tell your.....alignment, for lack of a better word. I can't tell if you're on the Light Side of the Force, or the Dark Side."
 
-He sat down next to a wall, looking decidedly less enthused about this conversation than previously. "I'm not surprised," He said. "A lot of shit has changed since then. I've seen shit and done things I wouldn't have dared when I was younger."
+He sat down next to a wall, looking decidedly less enthused about this conversation than previously. "I'm not surprised," He said. "A lot of shit has changed since then. I'm not surprised that I'm closed off." He was quiet for a while. "I guess it's a coping mechanism, to make it easier dealing with all the death surrounding us." [Little better. Still need to polish it.]
 
-Ahsoka snorted. "Don't we all?" She was going to say more, but the look Statera gave her made her pause. "...what do you mean, Tera?" She said, a little more cautious.
+_____I've seen shit and done things I wouldn't have dared when I was younger."
 
-He sighed as he looked up at her. "Not yet, Ahsoka. I just got back, I don't want to ruin your perception of me just yet." He said, semi-jokingly. It helped ease the tension, if only slightly.
+_____Ahsoka snorted. "Don't we all?" She was going to say more, but the look Statera gave her made her pause. "...what do you mean, Tera?" She said, a little more cautious.
+
+Ahsoka let the silence encompass them for a while, as she sat down next to him. "You want to talk about it, Tera?" 
+
+He sighed as he looked up at her. "No, not really. Besides, I just got back, I don't want to ruin your perception of me just yet." He said, semi-jokingly. It helped ease the tense air, if only slightly.
 
 [She frowned, alarms going on in her mind. This was unlike him. He never used to act like this or keep secrets from her. Then she had a small revelation. It had been three years. It may not have seemed like much time to the Jedi Masters, but for teens, a massive amount of change could happen in three years. There was no way Statera would stay the way she remembered. She probably wouldn't even recognize herself if she went back in time.] (THIS BUGS ME)
 
-"All right, when you're ready." She moved and sat down next to him. "Besides, we all have secrets we hide."
+"All right, when you're ready." She said. Speaking with Gir'rina and Jedi mind healers had helped her understand that it was best to let grieving individuals work through things on their own time. Needlessly pushing them through grief helped very little in the recovery process. 
+
+_____"Besides, we all have secrets we hide."
 
 Statera looked at her, with a half amused smirk on his face. "That was surprisingly mature of you, 'soka." He said, teasingly.
 
-She punched his arm. "Just because you changed while you were gone doesn't mean that the rest of us stayed the same. And I will find out your secrets someday, Statera!"
+She punched his arm. "Just because you changed while you were gone doesn't mean that the rest of us stayed the same. Besides, I've picked up a few things from the healers."
+
+Statera rolled his eyes. "Only because Gir'rina forces you. At least you're finally learning."
+
+Ahsoka tried to look offended at him. 
+
+[come up with some form of ending to this conversation.]
+
+_____And I will find out your secrets someday, Statera!"
 
 Statera chuckled and leaned back against the wall. Silence overtaking them again. This time, it wasn't deafening. To Ahsoka, it seemed rather comfortable.
 
 --
 
-The Jedi Council was decidedly annoyed, not that most of the Masters would admit to feeling such a base emotion. Anakin probably would, but it wasn't the time or the place for such comments.
+The Jedi Council was decidedly annoyed, not that most of the Masters would admit to feeling such a base emotion. Anakin probably would, but even he knew it wasn't the time or the place for such comments.
 
 The last three years A'Sharad Hett spent in the far edges of the known galaxy had turned up much information about the Sith, but very little on the current Sith Lord they were facing.
 
-The first year had seemed promising, as the Jedi Master had found much information relating to the Sith of old. However,as time passed, he found the information that he had gleaned did not relate to the current situation. Documents on how an ancient Sith empire had functioned and artifacts from bygone eras had their place, but he was not an archaeologist, at least by choice, and they were running out of time with the Clone Wars dragging on.
+The first year had seemed promising, as the Jedi Master had found much information relating to the Sith of old. However, as time passed, he found the information that he had gleaned did not relate to the current situation. Documents on how an ancient Sith empire had functioned and artifacts from bygone eras had their place, but he was not an archaeologist, at least by choice, and they were running out of time with the Clone Wars dragging on. 
+
+[Do some work on this, the archaeologist part seems weird.]
 
 As the year turned into two, then into three, A'Sharad made the decision to end the expedition and return to the Order.
 
-"This is outrageous." Said Anakin, semi-sarcastically. His voice held no outrage, but frustration was written over his face. "You were unable to uncover anything about the current Sith lord?"
+"This is outrageous." Said Anakin, semi-sarcastically. His voice held no real outrage, but frustration was written over his face. "You were unable to uncover anything about the current Sith lord?"
 
 A'Sharad Hett merely bowed in his direction. "I'm afraid that's correct, Master Skywalker. The most recent Sith lord I was able to find was Darth Gean. However, she died more than a century ago."
 
@@ -126,18 +143,20 @@ Anakin sighed in frustration, but didn't speak.
 
 Saesee Tiin spoke next, his annoyance clear in his voice. "Well, did these texts have anything useful in them? Perhaps ways we could use to recognize new lords of the Sith?"
 
-Hett merely turned his head in Tiin's direction. "I'm afraid that could be up for debate. While many of these texts were in ancient languages, we were able to translate them. Many seemed to be historical accounts of the Sith of old, which could be potentially useful in recognizing new Sith lords. Strangely, a rather small minority seem to be on old Sith magic and Dark Side practices. Almost as if there was a purge within the Sith..." A'Sharad Hett spoke, contemplatively.
+Hett merely turned his head in Tiin's direction. "I'm afraid that could be up for debate. While many of these texts were in ancient languages, we were able to translate them. Many seemed to be historical accounts of the Sith of old, which could be potentially useful in recognizing new Sith lords. The rest seemed to be on old Sith magic and Dark Side practices." A'Sharad Hett said evenly. "I did note that the number of documents on Sith and Dark Side practices seemed to be quite small. Almost like there was a purge with the Sith...." He said, speaking as though he just realized that fact.
 
 "Good riddance." Saesee Tiin said, rather dismissive of A'Sharad Hett's answer. "You destroyed the remaining Sith relics, I hope." 
 
 "I did not. I did not think it was my place to remove such knowledge from the universe. I believe it is the Council's prerogative to decide what should be done. That is why I've brought them here."
 
-Yoda spoke before the Council devolved into a debate for or against the destruction of the manuscripts. "Speak on this later, we will. More to say, Master Hett has."
+Yoda spoke before the Council devolved into a debate for or against the destruction of the relics. "Speak on this later, we will. More to say, Master Hett has."
 
 Saesee Tiin grumpily quieted down and returned his attention to A'Sharad Hett.
 
 "Thank you, Master Yoda." A'Sharad said, bowing in the direction of the aforementioned Jedi. 
 
+
+[This seems kinda repetitive of earlier. Need to sit down and reshape it.]
 "While we may not have found any clues to the identity of our current Sith lord, we have found many artefacts and documents that we believe could be useful for the Jedi Order to study." A'Sharad Hett offered. It wasn't what they were looking for, but it was far better than returning empty-handed. His padawan has shown him how useful even Dark Side artefacts could be. The biggest obstacle would be convincing the Council.
 
 Adi Gallia spoke next. "Are these the Sith documents you mentioned earlier?"
@@ -146,7 +165,7 @@ A'Sharad Hett turned to her. "Surprisingly, no. While the majority of what we re
 
 This caused quite a few eyebrows to be raised. While the Jedi Archives were enormous, they had only truly been in place for the last 2500 years. There had been many attacks and Sith purges in the past, causing much of the knowledge of old to be lost.
 
-"I speak for us all when I say the Council is pleased with your work, Master Hett." Mace Windu said with a hint of praise in his voice. The rest of the Council nodded and mumbled in agreement. "While you were unable to complete your mission, your discoveries are a very welcome surprise."
+"I believe I speak for us all when I say the Council is pleased with your work, Master Hett." Mace Windu said with a hint of praise in his voice. The rest of the Council nodded and mumbled in agreement. "While you were unable to complete your mission, your discoveries are a very welcome surprise."
 
 "More to report, have you, Master Hett?" Master Yoda queried.
 
@@ -178,11 +197,11 @@ Statera smirked. "I would like to challenge you and Master Fisto to a sparing ma
 
 Anakin's lips soon rose, copying Statera's. "Interesting proposal... There's no way I'll be missing this."
 
-Ahsoka was less enthusiastic. Pulling his arm away, she spoke again. "Are you sure you're all right, Tera? Master Fisto is the one of the best duelists in the Order! And Master Skywalker is no slouch either." She added, under lighthearted glare from Anakin.
+Ahsoka was less enthusiastic. Pulling his hand away from her mouth, she spoke again. "Are you sure you're all right, Tera? Master Fisto is the one of the best duelists in the Order! And Master Skywalker is no slouch either." She added, under lighthearted glare from Anakin.
 
 "That'll make it more fun." Statera responded, an annoyingly confident grin on his face.
 
-"If you get stuck in the infirmary, I'll sic Gir'rina on you." Ahsoka said, her voice slightly heated.
+"If you get stuck in the infirmary, I'll sic Gir'rina on you." Ahsoka threatened.
 
 The grin remained on his face. "Then I'll have to do my best to avoid that, Padawan Tano." He mockingly bowed in her direction.
 
@@ -190,17 +209,17 @@ Ahsoka exasperatedly looked between her old friend and her master, before an ide
 
 Anakin's grin started to look forced. "I wouldn't take her up on this, Statera." He said, sounding quite serious. "I'm serious." His words echoed. "She can be evil when she puts her mind to it."
 
-"I appreciate the concern, but I think I'll be fine." Anakin shook his head, respecting Statera's self-confidence but slightly worried about the young human's wellbeing.
+"I appreciate the concern, but I think I'll be fine." Anakin shook his head, respecting Statera's self-confidence but slightly worried about the young human's wellbeing. "Besides, I've known her longer than you. I know just how bad she can be." Statera noted Anakin didn't seem reassured by his words. Maybe Ahsoka had gotten more sadistic in the last few years... Oh well, he'd find out when the time came.
 
-"When would you be available, Master Skywalker?" Statera interrupted his worrying.
+"When would you be available, Master Skywalker?" Statera interrupted his own thought processes.
 
-Anakin's reply was quick. "I don't return to the front lines until the Council decides on my next mission, so I'm free until then. Whenever that is." He said the last part with a hint of annoyance. He preferred to be on the battlefield. Sitting around was driving him mad. "The duel's timing will all depend on Master Fisto."
+Anakin's reply was quick. "Well, I don't return to the front lines until the Council decides on my next mission, so I'm free until then. Whenever that is." He said the last part with a hint of annoyance. He preferred to be on the battlefield. Sitting around was driving him mad. "The duel's timing will all depend on Master Fisto."
 
 Statera bowed in response. "Thank you, Master Skywalker. I'll let you know about Master Fisto's response when I receive it."
 
 Anakin rolled his eyes. "Cut with the formalities, Stat. I'm not a fan of them."
 
-The newly dubbed Stat copied Anakin. "Finally. And you're the second person who's taken to calling me Stat. Most seem to prefer 'Tera'." He said, elbowing Ahsoka. He changed the subject. "Anyways, I was planning to steal your apprentice for a while, got years of catching up to do and all that." He said, being purposefully vague to hopefully get a rise out of Anakin. Or Ahsoka. He was disappointed in both cases, though.
+The newly dubbed Stat copied Anakin. "Finally! And you're the second person who's taken to calling me Stat. Most seem to prefer 'Tera'." He said, elbowing Ahsoka. He changed the subject. "Anyways, I was planning to steal your apprentice for a while, got years of catching up to do and all that." He said, being purposefully vague to hopefully get a rise out of Anakin. Or Ahsoka. He was disappointed in both cases, though.
 
 "Well, if you're going to ask my permission, then it wouldn't be stealing..." Anakin countered.
 
@@ -208,4 +227,4 @@ The newly dubbed Stat copied Anakin. "Finally. And you're the second person who'
 
 Ahsoka rolled her eyes and grabbed his arm. "Come on, 'Stat'. Years of catching up to do, remember?" She started to drag him away.
 
-Anakin shook his head in amusement. It may have been years and he may have only heard the stories, but the two still shared a close bond. He began walking, leaving the empty hallway to find something to escape the impending boredom. Why couldn't the council decide on his mission faster?
+Anakin shook his head in amusement. It may have been years and he may have only heard stories, but the two still shared a close bond. He began walking, leaving the empty hallway to find something to escape the impending boredom. Why couldn't the council decide on his mission faster?
