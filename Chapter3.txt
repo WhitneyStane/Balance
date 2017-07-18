@@ -22,7 +22,7 @@ Placing the holocron back, she turned to face him. "Nihilus?"
 
 He nodded. "Darth Nihilus. He was a literal wound in the Force. Capable of consuming the Force from any living being."
 
-She was silent for a few seconds before finally asking the question he half expected. "Then why the kriff do you have it lying out in the open?"
+She was silent for a few seconds before finally asking the question he was expecting. "Then why the kriff do you have it lying out in the open?"
 
 Statera merely smirked at her.
 
@@ -30,7 +30,7 @@ That facial expression was becoming less endearing by the second, Ahsoka thought
 
 Statera used the Force to pick up the Holocron and levitate it between them. A few seconds later, the holocron began to open.
 
-The eerie visage of Darth Nihilus appeared before them. The Dark Side was palpable now, nearly overwhelming. The visage of Nihilus spoke, distinctly not in Basic, but still understandable through the Force, like all holocrons.
+The eerie visage of Darth Nihilus appeared before them. The darkness was palpable now, nearly overwhelming. The visage of Nihilus whispered dark secrets, distinctly not in Basic, but still understandable through the Force, like all holocrons.
 
 Ahsoka felt sick from dark energy flowing from the holocron. She never realized she was retreating until her back hit the wall of the ship. She slowly felt better as Statera closed the holocron and placed it back among the holocubes.
 
@@ -47,30 +47,25 @@ He ignored her questioning look and began to walk out of the ship. "Come on, we'
 [maybe bring up deep shit Tera's resistant to speaking about it]
 [time skip to fight?]
 
-Statera followed Ahsoka to Gir'rina's room. He learned from Ahsoka that Gir'rina had moved a few times in the last few years. She was one of many unlucky padawans that lost their masters' in the War. It made Statera glad he grabbed his little gift for Gir'rina. It could act like a distraction as she processed everything.
+Statera followed Ahsoka to Gir'rina's room. He learned from Ahsoka that Gir'rina had moved a few times in the last few years. She was one of many unlucky padawans that lost their masters' in the War. [It was only a few weeks ago that she had lost her second master.] It made Statera glad he grabbed his little gift for Gir'rina. It could act like a distraction as she processed everything.
 
-They were greeted by a happy Twi'lek as soon as they entered the door.
+They were greeted by a depressed, but still happy Twi'lek as soon as they entered the door.
 
 "Tera! You did return!" She said, her phrasing, as always, simple and direct.
 
-Statera stepped forward and wrapped her into a tight hug. "Yes, I am. You didn't believe Ahsoka when she told you?"
+Statera stepped forward and wrapped her into a tight hug. "I see you still haven't given up on that name, Rina."
+
+Gir'rina merely rolled her eyes at him when they separated. "Of course I haven't. I was the first one to use it on you, and I'll be the last one."
+
+Statera sent a mock glare at her for a few seconds. "Oh, I've got a present for you!" He said, his face instantly losing the glare.
 
 [Gir'rina merely rolled her eyes as separated. "Of course not. You know how she]
+[he also has Force amplifying gauntlet to give Gir'rina]
 [Motherfucker. These conversations are hard. I don't get anywhere and it feels like it's all just bland, basic shit. I'll need to rewrite. Might as well skip up to the fight for now.]
 
-[Have gir'rina lose a couple masters? They fight in the war while she is in the field hospitals. Could keep her at the temple, but it seems like a waste especially since the Clone Wars is going on.]
+[Have Gir'rina lose a couple masters? They fight in the war while she is in the field hospitals. Could keep her at the temple, but it seems like a waste especially since the Clone Wars is going on.]
 
 --
-
-_____"And what do you do?" She shot back at him.
-_____
-_____He began walking down the hallway, heading toward the sparing arena several floors below. "I win." He said, glancing over his shoulder at her.
-_____
-_____Rolling her eyes and ignoring A'Sharad's chuckles, she started after him.
-_____
-_____"Shall we get a move on, then?" Anakin said, with an amused grin.
-
-----
 
 Ahsoka stood next to A'Sharad Hett as they waited for the three combatants to finish getting warmed up. She was rather worried about her newly returned friend, challenging two of the top duelists in the Order wasn't something to be done lightly.
 
@@ -90,7 +85,7 @@ Kit Fisto and her master, Anakin, had taken up their lightsabers, waiting for co
 
 ----
 
-Statera looked at the two Jedi, studying them slightly before glancing at Ahsoka. She had grown quite a bit since his departure.
+Statera looked at the two Jedi, studying them slightly before glancing at Ahsoka. She had grown quite a bit since his departure, both physically and in the Force.
 
 Flashing a smile at her, he noted how much more powerful she felt in the Force. It shone through her, strongly but more far more gentle than it had in the past. 
 
@@ -98,7 +93,7 @@ Flashing a smile at her, he noted how much more powerful she felt in the Force. 
 
 As the other Jedi took up their lightsabers, he pulled himself back to the present. It was time to have fun.
 
-"Master Skywalker, Master Fisto. While I traveled the galaxy with Master Hett, we discovered many artifacts and techniques lost to the ages, many dating even back to the Old Republic. Today, we will find out just how well you would fare against the Jedi of old." He said in a cocky tone. The tone wasn't completely forced, either. Statera knew his strengths and he was confident he could handle the two Jedi masters. That is, he could handle them until they took him seriously.
+["Master Skywalker, Master Fisto. While I traveled the galaxy with Master Hett, we discovered many artifacts and techniques lost to the ages, many dating even back to the Old Republic. Today, we will find out just how well you would fare against the Jedi of old." He said in a cocky tone. The tone wasn't completely forced, either. Statera knew his strengths and he was confident he could handle the two Jedi masters. That is, he could handle them until they took him seriously.] [Not sure I like this. He seems arrogant and overly powerful. Might change this so it's more insidious.]
 
 He ignited his lightsabers, a smile crossing his face as his opponents circled him. 
 
@@ -142,11 +137,13 @@ A'Sharad shook his head again. "It is not my place, Padawan Tano. It is somethin
 
 A'Sharad turned his attention back to the fight. His apprentice was now using some rather obscure uses of the Force. While the Jedi still used the Force to increase their agility and reflexes, it was a less effective technique than what the Jedi used one thousand years in the past. The long lasting peace had caused much atrophy in the Order.
 
+----
+
 Statera was dancing between the two masters, keeping the Jedi on the defensive. Even when they were able to get an attack, it was quickly countered by the young padawan. His movements reminded the observers of Master Yoda's, precise and quick.
 
 He ended his assault by sending the two flying across the room.
 
-"That was Force Speed. I find it to be more refined than the techniques taught today." He said as the two Jedi reengaged him. His voice had lost a bit of its arrogant tone.
+["That was Force Speed. I find it to be more refined than the techniques taught today." He said as the two Jedi reengaged him. His voice had lost a bit of its arrogant tone.] [Again, same reason I'm cutting out the earlier stuff. Don't like it, need to smooth it out]
 
 [He leapt back, simultaneously pushing the two masters away from him again. He made a quick decision and sped toward Fisto, briefly attacking him before speeding away.
 
