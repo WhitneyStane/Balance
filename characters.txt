@@ -1,0 +1,105 @@
+Statera
+Level: 1
+Race: Human
+Class: Jedi Guardian
+HP: 8 (not actually important. Just gives an idea of how tough they are)
+Str:15		Modifier: +2
+Dex:11		Modifier: 0
+Con:14		Modifier: +2
+Int:17		Modifier: +3
+Wis:13		Modifier: +1
+Cha:15		Modifier: +2
+Chaotic Neutral
+
+Ahsoka
+Level: 1
+Race: Togruta
+Class: Jedi Sentinel
+HP: 8
+Str:14		Modifier: +2
+Dex:16		Modifier: +3
+Con:11		Modifier: 0
+Int:14		Modifier: +2
+Wis:13		Modifier: +1
+Cha:12		Modifier: +1
+Chaotic Good
+
+Gir'rina
+Level: 1
+Race: Twi'lek
+Class: Jedi Consular
+HP: 10
+Str:9		Modifier: -1
+Dex:11		Modifier: 0
+Con:15		Modifier: +2
+Int:12		Modifier: +1
+Wis:15		Modifier: +2
+Cha:14		Modifier: +2
+Lawful neutral
+
+Asajj Ventress
+Level: 5
+Race: Dathomirian
+Class: Sith
+HP: 37
+Str: 15		Modifier: +2
+Dex: 16		Modifier: +3
+Con: 17		Modifier: +3
+Int: 14		Modifier: +2
+Wis: 12		Modifier: +1
+Cha: 17		Modifier: +3
+Chaotic Neutral
+
+
+
+Races:
+
+Human:
+ability scores: +1
+Any alignment
+Languages: Basic, Ryl
+
+Dathomirian:
+race most similar to: tiefling
+Intelligence: +1
+Charisma: +2
+Chaotic
+Languages: Basic, Sith
+
+Togruta:
+race most similar to: half-elf?
+Charisma: +2
+Two other ability scores: +1
+Chaotic
+Force resistant
+Languages: Basic, Togruti, Ryl
+
+Twi'lek:
+race most similar to: elf
+Dex: +2
+Chaotic Good
+Languages: Basic, Ryl
+
+
+Classes:
+
+Jedi Sentinel: Fighter
+Class most similar to: Monk
+HP: d8 + Con
+Saving throws: Str, Dex
+
+Jedi Consular: Healer
+Class most similar to: Cleric
+HP: d8 + Con
+Saving throws: Wis, Cha
+
+Jedi Guardian: Powerful with the Force
+Class most similar to: Wizard
+HP: d6 + Con
+Saving throws: Int, Wis
+
+Sith:
+Class most similar to: Rogue (esp for Ventress), Sorcery,
+HP: (d8 + d6) / 2 + Con
+Saving throws: Dex, Con
+
