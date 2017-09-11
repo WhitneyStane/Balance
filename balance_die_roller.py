@@ -24,7 +24,7 @@ def printer(*name):
 
     for i in range(len(name)):
 
-        print("{:>22}".format(name[i][6]))
+        print("|{:>22}             |".format(name[i][6]))
 
         print("|" + ("-" * 35) + "|")
 

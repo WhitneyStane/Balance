@@ -2,9 +2,8 @@ Statera
 Level: 1
 Race: Human
 Class: Jedi Guardian
-HP: 8 (not actually important. Just gives an idea of how tough they are)
 Str:15		Modifier: +2
-Dex:11		Modifier: 0
+Dex:11		Modifier: +0
 Con:14		Modifier: +2
 Int:17		Modifier: +3
 Wis:13		Modifier: +1
@@ -15,10 +14,9 @@ Ahsoka
 Level: 1
 Race: Togruta
 Class: Jedi Sentinel
-HP: 8
 Str:14		Modifier: +2
 Dex:16		Modifier: +3
-Con:11		Modifier: 0
+Con:11		Modifier: +0
 Int:14		Modifier: +2
 Wis:13		Modifier: +1
 Cha:12		Modifier: +1
@@ -28,9 +26,8 @@ Gir'rina
 Level: 1
 Race: Twi'lek
 Class: Jedi Consular
-HP: 10
 Str:9		Modifier: -1
-Dex:11		Modifier: 0
+Dex:11		Modifier: +0
 Con:15		Modifier: +2
 Int:12		Modifier: +1
 Wis:15		Modifier: +2
@@ -40,8 +37,7 @@ Lawful neutral
 Asajj Ventress
 Level: 5
 Race: Dathomirian
-Class: Sith
-HP: 37
+Class: Sith (Rogue)
 Str: 15		Modifier: +2
 Dex: 16		Modifier: +3
 Con: 17		Modifier: +3
@@ -49,6 +45,80 @@ Int: 14		Modifier: +2
 Wis: 12		Modifier: +1
 Cha: 17		Modifier: +3
 Chaotic Neutral
+
+Anakin Skywalker
+Level: 10
+Race: Human
+Class: Jedi Sentinel
+Str: 20		Modifier: +5
+Dex: 17		Modifier: +3
+Con: 21		Modifier: +5
+Int: 17		Modifier: +3
+Wis: 17		Modifier: +3
+Cha: 17		Modifier: +3
+Chaotic Neutral
+
+Obi wan Kenobi
+Level: 15
+Race: Human
+Class: Jedi Guardian
+Str: 18		Modifiers: +4
+Dex: 18		Modifiers: +4
+Con: 18		Modifiers: +4
+Int: 18		Modifiers: +4
+Wis: 20		Modifiers: +5
+Cha: 30		Modifiers: +10
+Chaotic Good
+
+Kit Fisto
+Level: 16
+Race: Nautolan
+Class: Jedi Sentinel
+Str: 20		Modifiers: +5
+Dex: 30		Modifiers: +10
+Con: 14		Modifiers: +2
+Int: 12		Modifiers: +1
+Wis: 14		Modifiers: +2
+Cha: 15		Modifiers: +2
+Lawful Good
+
+Yoda
+Level: 20
+Race: Yoda's species
+Class: Jedi Consular
+Str: 18		Modifiers: +4
+Dex: 30		Modifiers: +10
+Con: 16		Modifiers: +3
+Int: 12		Modifiers: +1
+Wis: 30		Modifiers: +10
+Cha: 17		Modifiers: +3
+Lawful Good
+
+Mace Windu
+Level: 18
+Race: Human
+Class: Jedi Sentinel
+Str: 18		Modifiers: +4
+Dex: 16		Modifiers: +3
+Con: 14		Modifiers: +2
+Int: 24		Modifiers: +7
+Wis: 17		Modifiers: +3
+Cha: 14		Modifiers: +2
+Chaotic Good
+
+Darth Sid (I like this name :-) )
+Level: 20
+Race: Human
+Class: Sith
+Str: 18		Modifiers: +4
+Dex: 18		Modifiers: +4
+Con: 16		Modifiers: +3
+Int: 30		Modifiers: +10
+Wis: 14		Modifiers: +2
+Cha: 30		Modifiers: +10
+Chaotic Evil
+
+
 
 
 
@@ -79,6 +149,16 @@ race most similar to: elf
 Dex: +2
 Chaotic Good
 Languages: Basic, Ryl
+
+Nautolan:
+race most similar to: Aquans
+Wis: -2
+Amphibious
+
+
+Yoda's species:
+
+Wis: +3
 
 
 Classes:
