@@ -38,8 +38,6 @@ Ahsoka felt sick from dark energy flowing from the holocron. She never realized 
 
 He ignored her questioning look and began to walk out of the ship. "Come on, we've got to meet Gir'rina, remember?"
 
-[They also have the holocrons of Darth Andeddu and Darth Bane]
-
 --
 
 [head to Gir'rina's room]
@@ -55,11 +53,11 @@ They were greeted by Lethan Twi'lek as soon as they entered the door.
 
 Statera stepped forward and wrapped her into a tight hug. "I see you still haven't given up on that name, Rina."
 
-Gir'rina merely rolled her eyes at him when they separated. "Of course I haven't. I was the first one to use it on you, and I'll be the last one to stop using it."
+Gir'rina merely rolled her eyes at him when they separated. "Of course not. I was the first one to use it on you, and I will be the last one to stop using it."
 
 Statera sent a mock glare at her for a few seconds. "Oh, I've got a present for you!" He said, his face instantly losing the glare.
 
-He turned and opened the pack he brought. He pulled out a rather large, slightly armored glove that seemed to buzz slightly in the Force.
+He turned and opened the pack he brought. He pulled out a rather large, lightly armored glove that seemed to buzz slightly in the Force.
 
 Both girls looked at it quizzically.
 
@@ -67,13 +65,80 @@ Statera handed the glove to Gir'rina. "Put it on." His excitement was noticeable
 
 Gir'rina took the glove but didn't put it on. Looking it over, she asked, "What exactly is this?"
 
-"An artefact Master Hett and I found. It acts as an amplifier for the Force." He answered. "Its my gift to you on one condition."
+"An artefact Master Hett and I found. It acts as an amplifier for the Force." He answered. "It's my gift to you on one condition."
 
 Gir'rina looked up at him as he explained the glove's purpose. "What is the condition?"
 
-"You can only use this to heal, never to harm." He responded.
+[Feel like this need a lot of polish. Will need to go over and fix]
+
+"You are only allowed to use this to heal, never to harm." He responded.
 
 Gir'rina expression softened, "You have my word, Tera."
+
+Statera's face softened as well for a few seconds. [REWRITE]
+
+Then he went back to excited and repeated his earlier statement. "Put it on! Let's see it."
+
+Gir'rina rolled her eyes at his antics, strongly reminiscent of their youth. She took the glove and put it on, finding it to be rather large on her hand.
+
+To those in the room, the quiet Force buzzing from the glove became a stronger thrum as the Twi'lek put her hand in the glove.
+
+"Wow..." Gir'rina whispered, the Force feeling magnified through the glove. She could sense more subtle ripples in the Force than she was used to.
+
+Gently reaching out in the Force, she lifted her datapad off the floor.
+
+"It takes almost nothing, doesn't it?" Statera said as the datapad hovered in front of them.
+
+Gir'rina merely nodded, gently using the Force to rotate the datapad. "The Force, it's so...responsive..." She said, slightly in awe of the glove's abilities.
+
+Statera nodded. "That was my reaction when I first tried it." He said. "A'Sharad and I found it while we were searching through old Sith ruins in the Stygian Caldera."
+
+Gir'rina took the glove off and looked at it skeptically. "This thing was made by the Sith?" She asked, a small hint of disgust in her voice.
+
+Statera missed the disgust in her tone. "Potentially. But it doesn't feel like the Dark Side when you put it on."
+
+Gir'rina set it down. "Isn't that how the Dark side works? Subtle and insidious?"
+
+Statera thought for a moment. "That depends. Based on the records A'Sharad and I found, and the interactions we had with Sith ghosts, many on the Dark Side relied on brute force. Subtlety was beyond them."
+
+"But is that how the glove works?" Gir'rina specified.
+
+"No," Statera replied, flatly. Thinking for a short while, an idea came to him. "Have you ever felt the Dark Side, Gir'rina?"
+
+A bit surprised at the question, she shook her head negatively.
+
+"Okay." He said before turning to Ahsoka. "Think she'd be up for meeting Nihilus?"
+
+Ahsoka frowned at him. "Why would she need to meet him?" [FIX]
+
+"That way she'll know what the Dark Side feels like. If she ever faces it again, she'll know what to expect."
+
+Ahsoka still looked conflicted.
+
+Gir'rina had a similar expression on her face. "Who's Nihilus?" She asked.
+
+Statera turned back to her. "Darth Nihilus was a Sith Lord back in the Old Republic. According to our discoveries, it seemed like he popped up a little after the Revan Incident."
+
+The Revan Incident was a well recorded piece of Jedi history, surviving through Sith raids for nearly four thousand years. A Jedi pair, Revan and Malek, had fallen to the Dark Side during the Mandalorian wars. The Jedi Council of the time decided to perform a memory rub on Revan. In wiping his mind, the Council of old hoped that he would return to the Light Side.
+
+While this should have been a footnote in history, Revan and Malek had found a weapon capable of destroying the Republic. Any information on the weapon had been lost to history. And to top it off, Revan had been able to overcome the memory rub, remembering his time as a Sith Lord.
+
+However, none of this mattered since Darth Nihilus turned up after the Revan Incident.
+
+"And this will help me recognize that Dark Side?" She asked.
+
+Statera nodded. "Since I had no prior experience facing the Dark Side, when A'Sharad and I first opened his holocron, I was overwhelmed by it's power. And that was from the mere memory of a Sith Lord. I found that it's better to face the Dark Side in a more controlled way, than to suddenly run into it in the galaxy and be unprepared." [FIX THIS TOO]
+
+
+
+
+
+
+
+
+
+
+
 
 
 [Gir'rina merely rolled her eyes as separated. "Of course not. You know how she]
