@@ -62,60 +62,60 @@ Obi wan Kenobi
 Level: 15
 Race: Human
 Class: Jedi Guardian
-Str: 18		Modifiers: +4
-Dex: 18		Modifiers: +4
-Con: 18		Modifiers: +4
-Int: 18		Modifiers: +4
-Wis: 20		Modifiers: +5
-Cha: 30		Modifiers: +10
+Str: 18		Modifiers:+4
+Dex: 18		Modifiers:+4
+Con: 18		Modifiers:+4
+Int: 18		Modifiers:+4
+Wis: 20		Modifiers:+5
+Cha: 30		Modifiers:+10
 Chaotic Good
 
 Kit Fisto
 Level: 16
 Race: Nautolan
 Class: Jedi Sentinel
-Str: 20		Modifiers: +5
-Dex: 30		Modifiers: +10
-Con: 14		Modifiers: +2
-Int: 12		Modifiers: +1
-Wis: 14		Modifiers: +2
-Cha: 15		Modifiers: +2
+Str: 20		Modifiers:+5
+Dex: 30		Modifiers:+10
+Con: 14		Modifiers:+2
+Int: 12		Modifiers:+1
+Wis: 14		Modifiers:+2
+Cha: 15		Modifiers:+2
 Lawful Good
 
 Yoda
 Level: 20
 Race: Yoda's species
 Class: Jedi Consular
-Str: 18		Modifiers: +4
-Dex: 30		Modifiers: +10
-Con: 16		Modifiers: +3
-Int: 12		Modifiers: +1
-Wis: 30		Modifiers: +10
-Cha: 17		Modifiers: +3
+Str: 18		Modifiers:+4
+Dex: 30		Modifiers:+10
+Con: 16		Modifiers:+3
+Int: 12		Modifiers:+1
+Wis: 30		Modifiers:+10
+Cha: 17		Modifiers:+3
 Lawful Good
 
 Mace Windu
 Level: 18
 Race: Human
 Class: Jedi Sentinel
-Str: 18		Modifiers: +4
-Dex: 16		Modifiers: +3
-Con: 14		Modifiers: +2
-Int: 24		Modifiers: +7
-Wis: 17		Modifiers: +3
-Cha: 14		Modifiers: +2
+Str: 18		Modifiers:+4
+Dex: 16		Modifiers:+3
+Con: 14		Modifiers:+2
+Int: 24		Modifiers:+7
+Wis: 17		Modifiers:+3
+Cha: 14		Modifiers:+2
 Chaotic Good
 
-Darth Sid (I like this name :-) )
+Darth Sid (I like thisname :-) )
 Level: 20
 Race: Human
 Class: Sith
-Str: 18		Modifiers: +4
-Dex: 18		Modifiers: +4
-Con: 16		Modifiers: +3
-Int: 30		Modifiers: +10
-Wis: 14		Modifiers: +2
-Cha: 30		Modifiers: +10
+Str: 18		Modifiers:+4
+Dex: 18		Modifiers:+4
+Con: 16		Modifiers:+3
+Int: 30		Modifiers:+10
+Wis: 14		Modifiers:+2
+Cha: 30		Modifiers:+10
 Chaotic Evil
 
 
