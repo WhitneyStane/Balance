@@ -2,60 +2,60 @@ Statera
 Level: 1
 Race: Human
 Class: Jedi Guardian
-Str:15		Modifier: +2
-Dex:11		Modifier: +0
-Con:14		Modifier: +2
-Int:17		Modifier: +3
-Wis:13		Modifier: +1
-Cha:15		Modifier: +2
+Str:15		Modifier:+2
+Dex:11		Modifier:+0
+Con:14		Modifier:+2
+Int:17		Modifier:+3
+Wis:13		Modifier:+1
+Cha:15		Modifier:+2
 Chaotic Neutral
 
 Ahsoka
 Level: 1
 Race: Togruta
 Class: Jedi Sentinel
-Str:14		Modifier: +2
-Dex:16		Modifier: +3
-Con:11		Modifier: +0
-Int:14		Modifier: +2
-Wis:13		Modifier: +1
-Cha:12		Modifier: +1
+Str:14		Modifier:+2
+Dex:16		Modifier:+3
+Con:11		Modifier:+0
+Int:14		Modifier:+2
+Wis:13		Modifier:+1
+Cha:12		Modifier:+1
 Chaotic Good
 
 Gir'rina
 Level: 1
 Race: Twi'lek
 Class: Jedi Consular
-Str:9		Modifier: -1
-Dex:11		Modifier: +0
-Con:15		Modifier: +2
-Int:12		Modifier: +1
-Wis:15		Modifier: +2
-Cha:14		Modifier: +2
+Str:9		Modifier:-1
+Dex:11		Modifier:+0
+Con:15		Modifier:+2
+Int:12		Modifier:+1
+Wis:15		Modifier:+2
+Cha:14		Modifier:+2
 Lawful neutral
 
 Asajj Ventress
 Level: 5
 Race: Dathomirian
 Class: Sith (Rogue)
-Str: 15		Modifier: +2
-Dex: 16		Modifier: +3
-Con: 17		Modifier: +3
-Int: 14		Modifier: +2
-Wis: 12		Modifier: +1
-Cha: 17		Modifier: +3
+Str: 15		Modifier:+2
+Dex: 16		Modifier:+3
+Con: 17		Modifier:+3
+Int: 14		Modifier:+2
+Wis: 12		Modifier:+1
+Cha: 17		Modifier:+3
 Chaotic Neutral
 
 Anakin Skywalker
 Level: 10
 Race: Human
 Class: Jedi Sentinel
-Str: 20		Modifier: +5
-Dex: 17		Modifier: +3
-Con: 21		Modifier: +5
-Int: 17		Modifier: +3
-Wis: 17		Modifier: +3
-Cha: 17		Modifier: +3
+Str: 20		Modifier:+5
+Dex: 17		Modifier:+3
+Con: 21		Modifier:+5
+Int: 17		Modifier:+3
+Wis: 17		Modifier:+3
+Cha: 17		Modifier:+3
 Chaotic Neutral
 
 Obi wan Kenobi
